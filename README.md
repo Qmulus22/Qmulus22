@@ -8,11 +8,6 @@
 
 ---
 
-<div align="center">
-  <img src="./agnes-tachyon-uma-musume.gif" width="300" alt="Agnes Tachyon Low Cortisol GIF" />
-</div>
-
----
 
 ## 💫 About Me
 
