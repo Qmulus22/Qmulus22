@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/Dn12S2BHR0UAAAAd/agnes-tachyon-uma-musume.gif" width="300" alt="Agnes Tachyon Low Cortisol GIF" />
-</div>
-
----
-
 ## 💫 About Me
 
 - 🔭 I'm currently working on **building scalable full-stack applications**
@@ -84,11 +78,35 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qmulus22&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qmulus22&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=1a0933&title_color=C9A0FF&icon_color=B57BFF&text_color=E8D5FF&border_color=7B5EA7)
+
 <br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Qmulus22&theme=midnight-purple&hide_border=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Qmulus22&hide_border=false&background=1a0933&ring=C9A0FF&fire=E0CAFF&currStreakLabel=C9A0FF&sideLabels=E8D5FF&dates=B57BFF&border=7B5EA7&currStreakNum=E8D5FF&sideNums=C9A0FF)
+
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qmulus22&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qmulus22&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=1a0933&title_color=C9A0FF&text_color=E8D5FF&border_color=7B5EA7)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Qmulus22&theme=dracula&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=C9A0FF)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qmulus22&bg_color=1a0933&color=C9A0FF&line=7B5EA7&point=E0CAFF&area=true&hide_border=false&border_color=7B5EA7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -96,7 +114,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Qmulus22&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Qmulus22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
