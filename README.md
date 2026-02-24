@@ -8,10 +8,8 @@
 
 ---
 
-<!-- 🌸 Replace the URL below with the direct .gif link from Tenor -->
-<!-- To get it: open https://tenor.com/bpifnzEaooP.gif in browser → right-click the GIF → Copy image address → paste it below -->
 <div align="center">
-  <img src="PASTE_YOUR_TENOR_DIRECT_GIF_URL_HERE" width="480" alt="banner gif" />
+  <img src="https://media1.tenor.com/m/Dn12S2BHR0UAAAAd/agnes-tachyon-uma-musume.gif" width="300" alt="Agnes Tachyon Low Cortisol GIF" />
 </div>
 
 ---
@@ -87,13 +85,9 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qmulus22&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-
 <br/>
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Qmulus22&theme=midnight-purple&hide_border=false)
-
 <br/>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qmulus22&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
@@ -102,7 +96,7 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Qmulus22&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Qmulus22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
