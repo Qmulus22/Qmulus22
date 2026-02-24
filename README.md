@@ -1,21 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C9A0FF,50:7B5EA7,100:4A3370&height=200&section=header&text=Dimie%20Laurence%20Lapara&fontSize=40&fontColor=F0E6FF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Builder&descSize=18&descAlignY=58&descColor=E0CAFF&animation=fadeIn)
+
 <div align="center">
 
-<!-- Header Banner — lavender/forget-me-not gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Dimie%20Laurence%20Lapara&fontSize=42&fontColor=E8D5FF&fontAlignY=38&desc=Developer%20%C2%B7%20Designer%20%C2%B7%20Builder&descSize=18&descAlignY=58&descColor=C4A8FF" />
-
-<!-- Typing Animation in lavender tones -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Cloud+%26+Backend+Enthusiast+%E2%98%81%EF%B8%8F;UI%2FUX+%26+Design+Lover+%F0%9F%8E%A8;Always+learning+something+new+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
-<!-- GIF before About Me -->
+<!-- 🌸 Replace the URL below with the direct .gif link from Tenor -->
+<!-- To get it: open https://tenor.com/bpifnzEaooP.gif in browser → right-click the GIF → Copy image address → paste it below -->
 <div align="center">
-  <img src="https://media.tenor.com/bpifnzEaooP/tenor.gif" width="480" alt="animated banner" />
+  <img src="PASTE_YOUR_TENOR_DIRECT_GIF_URL_HERE" width="480" alt="banner gif" />
 </div>
 
-<br>
+---
 
 ## 💫 About Me
 
@@ -26,7 +25,7 @@
 - 💬 Ask me about **C#, .NET, Python, PHP, databases, or anything dev-related**
 - ⚡ Fun fact: **I go by Qmulus — like cumulus clouds, but with a twist ☁️**
 
-<br>
+---
 
 ## 🌐 Socials
 
@@ -42,7 +41,7 @@
 
 </div>
 
-<br>
+---
 
 ## 💻 Tech Stack
 
@@ -81,7 +80,7 @@
 
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
@@ -103,11 +102,11 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Qmulus22&icon=5&color=7)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Qmulus22&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
-<br>
+---
 
 ## 💰 You Can Help Me by Donating
 
@@ -118,10 +117,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&fontColor=E8D5FF" />
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A3370,50:7B5EA7,100:C9A0FF&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
