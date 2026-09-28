@@ -78,13 +78,9 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qmulus22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0d12&title_color=c9b8f5&text_color=e9edf1&icon_color=9985d1&ring_color=c9b8f5&border_color=262f3a" width="48%" />
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=Qmulus22&hide_border=true&background=0a0d12&ring=c9b8f5&fire=c9b8f5&currStreakLabel=c9b8f5&sideLabels=7d8896&currStreakNum=e9edf1&sideNums=e9edf1&dates=7d8896" width="48%" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Qmulus22&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
@@ -106,7 +102,7 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
   <img src="https://img.shields.io/badge/Gmail-0A0D12?style=for-the-badge&logo=gmail&logoColor=C9B8F5&labelColor=0A0D12&color=262F3A" />
 </a>
 
-<br/><br/>
+<br/>
 
 📧 [dimielapara@gmail.com](mailto:dimielapara@gmail.com) &nbsp;·&nbsp; 🔗 [www.linkedin.com/in/dimie-lapara-b64a54392](https://www.linkedin.com/in/dimie-lapara-b64a54392)
 
