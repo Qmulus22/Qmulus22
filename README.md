@@ -42,7 +42,7 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qmulus22&hide_border=true&layout=compact&langs_count=6&bg_color=0a0d12&title_color=c9b8f5&text_color=e9edf1&border_color=262f3a" alt="Top Languages" />
+<img src="img/swag.gif" alt="Swag" width="100%" />
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
 
 **◈ Frameworks & Runtime**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,expo,flutter,nodejs,dotnet&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,flutter,nodejs,dotnet&theme=dark)](https://skillicons.dev)
 
 **◈ Databases & Backend**
 
@@ -85,10 +85,6 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Qmulus22&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qmulus22&bg_color=0a0d12&color=c9b8f5&line=9985d1&point=efe7ff&area=true&area_color=9985d1&hide_border=true)](https://github.com/Qmulus22)
 
 </div>
 
@@ -142,9 +138,10 @@ focus:     UI/UX & Prototyping · Database Design · Problem Solving
 
 <br/>
 
-<div align="center">
-  <img src="img/swag.gif" alt="m200" />
-</div>
+<!-- <div align="center">
+  <img src="img/agnes-tachyon-uma-musume.gif" alt="Agnes Tachyon" />
+  <img src="img/manhattan-cafe-uma-musume.gif" alt="Manhattan Cafe" />
+</div> -->
 
 <div align="center">
 
